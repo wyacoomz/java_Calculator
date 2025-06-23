@@ -10,13 +10,13 @@ A simple Java console-based calculator that performs basic arithmetic operations
 - Loop for multiple calculations
 
 ## How to Run
-1. Compile: javac Calculator.java
-2. Run: java Calculator
+1. Compile: Main.java
+2. Run Main.java
 
 ## Files
-- Calculator.java - Main source code
+- Main.java - Main source code
 - README.md - Project info
-- Java_Internship_Interview_Answers.txt - (Optional) Interview question answers
+- Java_Internship_Interview_Answers.txt -  Interview question answers
 
 ## Author
 Abdul Samad Khan
